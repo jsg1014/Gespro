@@ -7,4 +7,8 @@ Alvaro Marquez Ques
 
 #Jairo
 
+<<<<<<< Updated upstream
 Yo voy a realizar el desarrollo de las tareas 1 al 8 
+=======
+Yo voy a realizar el desarrollo de las tareas 1 al 8 
+>>>>>>> Stashed changes
